@@ -1,0 +1,4 @@
+confluent-kafka
+pyspark
+python-dateutil
+pathlib
